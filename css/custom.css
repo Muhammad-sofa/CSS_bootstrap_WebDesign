@@ -22,7 +22,7 @@
 
 .btn-secondary:hover {
     background: none;
-    border: 1px solid rgb(159, 177, 197);
+    border: 1px solid #BCD0E5;
     color: #173A56;
 }
 
@@ -47,4 +47,4 @@
         margin-top: 10px;
         margin-left: 0 !important;
     }
-}
+} 
